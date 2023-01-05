@@ -1,0 +1,84 @@
+{
+  "profiles": [
+    {
+      "headerImage": "header.jpg",
+      "profileImage": "face.jpg",
+      "name": "QouQou",
+      "slug": "@qouqou",
+      "description": "A profile",
+      "firstLink": "#",
+      "secondLink": "https://www.linkedin.com",
+      "thirdLink": "#"
+    },
+    {
+      "headerImage": "header.jpg",
+      "profileImage": "face.jpg",
+      "name": "John",
+      "slug": "@batiste",
+      "description": "living potato",
+      "firstLink": "#",
+      "secondLink": "https://www.linkedin.com",
+      "thirdLink": "#"
+    },
+    {
+      "headerImage": "header.jpg",
+      "profileImage": "face.jpg",
+      "name": "QouQou",
+      "slug": "@qouqou",
+      "description": "A profile",
+      "firstLink": "#",
+      "secondLink": "https://www.linkedin.com",
+      "thirdLink": "#"
+    },
+    {
+      "headerImage": "header.jpg",
+      "profileImage": "face.jpg",
+      "name": "QouQou",
+      "slug": "@qouqou",
+      "description": "A profile",
+      "firstLink": "#",
+      "secondLink": "https://www.linkedin.com",
+      "thirdLink": "#"
+    },
+    {
+      "headerImage": "header.jpg",
+      "profileImage": "face.jpg",
+      "name": "QouQou",
+      "slug": "@qouqou",
+      "description": "A profile",
+      "firstLink": "#",
+      "secondLink": "https://www.linkedin.com",
+      "thirdLink": "#"
+    },
+    {
+      "headerImage": "header.jpg",
+      "profileImage": "face.jpg",
+      "name": "QouQou",
+      "slug": "@qouqou",
+      "description": "A profile",
+      "firstLink": "#",
+      "secondLink": "https://www.linkedin.com",
+      "thirdLink": "#"
+    },
+    {
+      "headerImage": "header.jpg",
+      "profileImage": "face.jpg",
+      "name": "QouQou",
+      "slug": "@qouqou",
+      "description": "A profile",
+      "firstLink": "#",
+      "secondLink": "https://www.linkedin.com",
+      "thirdLink": "#"
+    },
+    {
+      "headerImage": "header.jpg",
+      "profileImage": "face.jpg",
+      "name": "QouQou",
+      "slug": "@qouqou",
+      "description": "A profile",
+      "firstLink": "#",
+      "secondLink": "https://www.linkedin.com",
+      "thirdLink": "#"
+    }
+  ]
+}

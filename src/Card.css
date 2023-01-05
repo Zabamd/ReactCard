@@ -1,0 +1,86 @@
+:root {
+  --grey: #707070;
+  --white: #fff;
+  --black: #000;
+  --purple: #a200ff;
+}
+
+@font-face {
+  font-family: PressStart2P;
+  src: url("../public/PressStart2P.ttf");
+}
+
+.cardWrapper {
+  width: 22rem;
+  height: 35rem;
+  box-shadow: 2px 2px 10px var(--grey);
+  border-radius: 50px;
+}
+
+.headerImage {
+  background-size: cover;
+  width: 100%;
+  height: 40%;
+  border-radius: 50px 50px 0 0;
+}
+
+.mainSection {
+  width: 100%;
+  height: 50%;
+  border-radius: 0 0 50px 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profilePic {
+  background-size: cover;
+  position: fixed;
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  border: 10px solid var(--white);
+  transform: translateY(-100%);
+}
+
+.profileContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.profileHeading {
+  font-family: PressStart2P;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+.profileSlug {
+  color: var(--grey);
+  padding: 0 auto;
+  margin: 0 auto;
+}
+
+.profileText {
+  font-size: 18px;
+}
+
+.socialWrapper {
+  position: fixed;
+  top: 30rem;
+  width: 100%;
+  height: 5rem;
+  border-radius: 0 0 50px 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.socialWrapper a {
+  width: 10%;
+  height: 20%;
+  padding: 15px 20px;
+}
+.socialWrapper a svg {
+  color: var(--purple);
+}
